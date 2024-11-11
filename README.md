@@ -76,7 +76,7 @@ Visit the live demo: (https://air-bnb-pymg.onrender.com)
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-airbnb.git
+   git clone https://github.com/Sakshamchakradhar/project-airbnb.git
    ```
 2. Install dependencies:
    ```bash
